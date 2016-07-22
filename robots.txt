@@ -13,4 +13,4 @@ Disallow: /assets/
 User-Agent: *
 Disallow:
 
-sitemap: mayoudong1993.github.io/sitemap.xml
+sitemap: https://mayoudong1993.github.io/sitemap.xml
